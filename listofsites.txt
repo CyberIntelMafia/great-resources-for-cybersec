@@ -1,0 +1,6 @@
+1,"https://openphish.com","Relevant Threat Intelligence"
+2,"https://urlscan.io","A sandbox for the web"
+3,"https://www.internet.nl","Modern Internet Standards"
+4,"https://dnsdumpster.com","dns recon & research, find & lookup dns records"
+5,"https://exchange.xforce.ibmcloud.com","Research, Collaborate and Act on threat intelligence"
+
